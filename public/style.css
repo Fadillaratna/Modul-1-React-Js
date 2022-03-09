@@ -1,0 +1,16 @@
+.judul{
+    color: cadetblue;
+    font-family: Tahoma;
+    font-size: 25px;
+}
+
+.subJudul{
+    color: cornflowerblue;
+    font-family: serif;
+    font-size: 15px;
+}
+
+.App{
+    margin-top: 5px;
+    text-align: center;
+}
